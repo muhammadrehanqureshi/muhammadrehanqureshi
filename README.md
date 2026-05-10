@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on — Threat detection and incident response as an Information Security Analyst at TechSurge Inc., optimizing SIEM alert tuning and vulnerability remediation.<br>👯 I'm looking to collaborate on — Cybersecurity projects involving penetration testing, SIEM use case development, or threat hunting.<br>🤝 I'm looking for help with — Building out my Python-based security tooling, including log analyzers and malware scanners.<br>🌱 I'm currently learning — Advanced offensive security techniques and deepening my cloud security expertise across AWS, Azure, and GCP.<br>💬 Ask me about — SIEM platforms (Splunk, Sentinel, QRadar), vulnerability assessments, incident response, or breaking into cybersecurity.<br>⚡ Fun fact — I hold both CISM and CISSP certifications and have helped secure 500+ endpoints while cutting malware incidents by 60%.
+🔭 I'm currently working on — Threat detection and incident response as an Information Security Analyst at TechSurge Inc.<br>👯 I'm looking to collaborate on — Cybersecurity projects involving penetration testing, SIEM use case development, or threat hunting.<br>🤝 I'm looking for help with — Building out my Python-based security tooling, including log analyzers and malware scanners.<br>🌱 I'm currently learning — Advanced offensive security techniques and deepening my cloud security expertise across AWS, Azure, and GCP.<br>💬 Ask me about — SIEM platforms (Splunk, Sentinel, QRadar), vulnerability assessments, incident response, or breaking into cybersecurity.<br>⚡ Fun fact — I hold both CISM and CISSP certifications and have helped secure 500+ endpoints while cutting malware incidents by 60%.
 
 
 ## 🌐 Socials:
@@ -11,8 +11,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=muhammadrehanqureshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=muhammadrehanqureshi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=muhammadrehanqureshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=muhammadrehanqureshi&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
