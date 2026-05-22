@@ -1,20 +1,10 @@
-<div align="center">
-
----
-
 ## 💫 About Me:
 🔭 I'm currently working on - Threat detection and incident response as an Information Security Analyst at TechSurge Inc.<br>👯 I'm looking to collaborate on - Cybersecurity projects involving penetration testing, SIEM use case development, or threat hunting.<br>🤝 I'm looking for help with - Building out my Python-based security tooling, including log analyzers and malware scanners.<br>🌱 I'm currently learning - Advanced offensive security techniques and deepening my cloud security expertise across AWS & Azure.<br>💬 Ask me about - SIEM platforms (Splunk, Sentinel, QRadar), vulnerability assessments, incident response.<br>⚡ Fun fact - I hold both CISM and CISSP certifications and have helped secure 500+ endpoints while cutting malware incidents by 60%.
-
-<div align="center">
-
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-muhammad-rehan-qureshi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrmrehanqureshi@gmail.com) 
 
 <div align="center">
-
----
 
 ### 💻 Tech Stack
 
