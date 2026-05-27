@@ -7,10 +7,9 @@
 
 ### 💻 Tech Stack
 
-  
-**Internet Security:**
+**SIEM & Monitoring:**
 
-![Splunk](https://img.shields.io/badge/splunk-%23292321.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/microsoft%20sentinel-%2388171A.svg?style=for-the-badge&logo=microsoft&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
+![Splunk](https://img.shields.io/badge/splunk-%23292321.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/microsoft%20sentinel-%2388171A.svg?style=for-the-badge&logo=microsoft&logoColor=white) ![QRadar](https://img.shields.io/badge/QRadar-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![ArcSight](https://img.shields.io/badge/ArcSight-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
   
 **Scripting:**
 
