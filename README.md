@@ -9,7 +9,7 @@
 
 **SIEM & Monitoring:**
 
-![Splunk](https://img.shields.io/badge/splunk-%23292321.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/microsoft%20sentinel-%232F89ED.svg?style=for-the-badge&logo=gnu-microsoft&logoColor=white) ![QRadar](https://img.shields.io/badge/QRadar-%2A1DBA0.svg?style=for-the-badge&logo=qradar&logoColor=white) ![ArcSight](https://img.shields.io/badge/ArcSight-%23F52020.svg?style=for-the-badge&logo=arcsight&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%23961515.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%23902391.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
+![Splunk](https://img.shields.io/badge/splunk-%23FA7641.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/microsoft%20sentinel-%232F89ED.svg?style=for-the-badge&logo=gnu-microsoft&logoColor=white) ![QRadar](https://img.shields.io/badge/QRadar-%2A1DBA0.svg?style=for-the-badge&logo=qradar&logoColor=white) ![ArcSight](https://img.shields.io/badge/ArcSight-%23F52020.svg?style=for-the-badge&logo=arcsight&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%23961515.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%23902391.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
 
 **Vulnerability Management:**
 
@@ -21,7 +21,7 @@
 
 **Endpoint Protection:**
 
-![Crowd Strike](https://img.shields.io/badge/Crowd%20Strike-%23EB1A1A.svg?style=for-the-badge&logo=crowd-strike&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-%23EB1A1A.svg?style=for-the-badge&logo=crowd-strike&logoColor=white)
 
 **Networking**
 
