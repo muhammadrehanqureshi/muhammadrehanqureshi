@@ -17,7 +17,7 @@
 
 **Cloud Security:**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF8312.svg?style=for-the-badge&logo=aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%23029AF2.svg?style=for-the-badge&logo=azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%23FFD003.svg?style=for-the-badge&logo=google&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF8312.svg?style=for-the-badge&logo=amazon&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%23029AF2.svg?style=for-the-badge&logo=azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%23FFD003.svg?style=for-the-badge&logo=google&logoColor=white)
 
 **Endpoint Protection:**
 
