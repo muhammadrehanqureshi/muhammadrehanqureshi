@@ -9,19 +9,19 @@
 
 **SIEM & Monitoring:**
 
-![Splunk](https://img.shields.io/badge/splunk-%23292321.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/microsoft%20sentinel-%2388171A.svg?style=for-the-badge&logo=gnu-microsoft&logoColor=white) ![QRadar](https://img.shields.io/badge/QRadar-%2388171A.svg?style=for-the-badge&logo=qradar&logoColor=white) ![ArcSight](https://img.shields.io/badge/ArcSight-%2388171A.svg?style=for-the-badge&logo=arcsight&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
+![Splunk](https://img.shields.io/badge/splunk-%23292321.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/microsoft%20sentinel-%232F89ED.svg?style=for-the-badge&logo=gnu-microsoft&logoColor=white) ![QRadar](https://img.shields.io/badge/QRadar-%2A1DBA0.svg?style=for-the-badge&logo=qradar&logoColor=white) ![ArcSight](https://img.shields.io/badge/ArcSight-%23F52020.svg?style=for-the-badge&logo=arcsight&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%23961515.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%23902391.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
 
 **Vulnerability Management:**
 
-![Nessus](https://img.shields.io/badge/Nessus-%23292321.svg?style=for-the-badge&logo=nessus&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23292321.svg?style=for-the-badge&logo=burp-suite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-%23292321.svg?style=for-the-badge&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-%23292321.svg?style=for-the-badge&logo=metasploit&logoColor=white) 
+![Nessus](https://img.shields.io/badge/Nessus-%2352C0C7.svg?style=for-the-badge&logo=nessus&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23F76511.svg?style=for-the-badge&logo=burp-suite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-%2345D5F7.svg?style=for-the-badge&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-%23F01313.svg?style=for-the-badge&logo=metasploit&logoColor=white) 
 
 **Cloud Security:**
 
-![AWS](https://img.shields.io/badge/AWS-%235391FE.svg?style=for-the-badge&logo=aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%235391FE.svg?style=for-the-badge&logo=azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%235391FE.svg?style=for-the-badge&logo=google&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF8312.svg?style=for-the-badge&logo=aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%23029AF2.svg?style=for-the-badge&logo=azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%23FFD003.svg?style=for-the-badge&logo=google&logoColor=white)
 
 **Endpoint Protection:**
 
-![Crowd Strike](https://img.shields.io/badge/Crowd%20Strike-%235391FE.svg?style=for-the-badge&logo=crowd-strike&logoColor=white)
+![Crowd Strike](https://img.shields.io/badge/Crowd%20Strike-%23EB1A1A.svg?style=for-the-badge&logo=crowd-strike&logoColor=white)
 
 **Networking**
 
