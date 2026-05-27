@@ -21,19 +21,19 @@
 
 **Endpoint Protection:**
 
-![Crowd Strike](https://img.shields.io/badge/Crowd%20Strike-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Crowd Strike](https://img.shields.io/badge/Crowd%20Strike-%235391FE.svg?style=for-the-badge&logo=crowd-strike&logoColor=white)
 
 **Networking**
 
-![Firewalls](https://img.shields.io/badge/Firewalls-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![VPNS](https://img.shields.io/badge/VPNs-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![IDS/IPS](https://img.shields.io/badge/IDS/IPS-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Firewalls](https://img.shields.io/badge/Firewalls-%235391FE.svg?style=for-the-badge&logo=firewall&logoColor=white) ![VPNS](https://img.shields.io/badge/VPNs-%235391FE.svg?style=for-the-badge&logo=vpn&logoColor=white) ![IDS/IPS](https://img.shields.io/badge/IDS/IPS-%235391FE.svg?style=for-the-badge&logo=ids/ips&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%235391FE.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 
 **Compliance:**
 
-![ISO 27001](https://img.shields.io/badge/ISO%2027001-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![NIST](https://img.shields.io/badge/NIST-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![GDPR](https://img.shields.io/badge/GDPR-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HIPAA](https://img.shields.io/badge/HIPAA-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-%235391FE.svg?style=for-the-badge&logo=iso-27001&logoColor=white) ![NIST](https://img.shields.io/badge/NIST-%235391FE.svg?style=for-the-badge&logo=nist&logoColor=white) ![GDPR](https://img.shields.io/badge/GDPR-%235391FE.svg?style=for-the-badge&logo=gdpr&logoColor=white) ![HIPAA](https://img.shields.io/badge/HIPAA-%235391FE.svg?style=for-the-badge&logo=hipaa&logoColor=white)
 
 **Scripting:**
 
-![Python](https://img.shields.io/badge/Python-%235391FE.svg?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234D4D4D.svg?style=for-the-badge&logo=bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%235391FE.svg?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234D4D4D.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
 
 **Cryptography:**
 
