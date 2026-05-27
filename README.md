@@ -10,22 +10,32 @@
 **SIEM & Monitoring:**
 
 ![Splunk](https://img.shields.io/badge/splunk-%23292321.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/microsoft%20sentinel-%2388171A.svg?style=for-the-badge&logo=microsoft&logoColor=white) ![QRadar](https://img.shields.io/badge/QRadar-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![ArcSight](https://img.shields.io/badge/ArcSight-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
-  
+
+**Vulnerability Management:**
+
+![Nessus](https://img.shields.io/badge/Nessus-%23292321.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23292321.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-%23292321.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-%23292321.svg?style=for-the-badge&logo=splunk&logoColor=white) 
+
+**Cloud Security:**
+
+![AWS](https://img.shields.io/badge/AWS-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google$20Cloud-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+**Endpoint Protection:**
+
+![Crowd Strike](https://img.shields.io/badge/Crowd%20Strike-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+**Networking**
+
+![Firewalls](https://img.shields.io/badge/Firewalls-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![VPNS](https://img.shields.io/badge/VPNs-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![IDS/IPS](https://img.shields.io/badge/IDS/IPS-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+**Compliance:**
+
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![NIST](https://img.shields.io/badge/NIST-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![GDPR](https://img.shields.io/badge/GDPR-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HIPAA](https://img.shields.io/badge/HIPAA-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
 **Scripting:**
 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/Python-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+**Cryptography:**
+
+![AES](https://img.shields.io/badge/AES-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![RSA](https://img.shields.io/badge/RSA-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TLS](https://img.shields.io/badge/TLS-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   
-**Servers:**
-
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-
-  
-**Editing:**
-
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-
-  
-**Web Development:**
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%23000000.svg?style=for-the-badge&logo=CSS&logoColor=white)
