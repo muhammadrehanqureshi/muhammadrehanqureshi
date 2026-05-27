@@ -17,7 +17,7 @@
 
 **Cloud Security:**
 
-![AWS](https://img.shields.io/badge/AWS-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google$20Cloud-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 **Endpoint Protection:**
 
@@ -33,9 +33,9 @@
 
 **Scripting:**
 
-![Python](https://img.shields.io/badge/Python-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%235391FE.svg?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234D4D4D.svg?style=for-the-badge&logo=bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
 
 **Cryptography:**
 
-![AES](https://img.shields.io/badge/AES-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![RSA](https://img.shields.io/badge/RSA-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TLS](https://img.shields.io/badge/TLS-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![AES](https://img.shields.io/badge/AES-%23121011.svg?style=for-the-badge&logo=aes&logoColor=white) ![RSA](https://img.shields.io/badge/RSA-%23121011.svg?style=for-the-badge&logo=rsa&logoColor=white) ![TLS](https://img.shields.io/badge/TLS-%23121011.svg?style=for-the-badge&logo=tls&logoColor=white)
   
