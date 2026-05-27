@@ -25,17 +25,17 @@
 
 **Networking**
 
-![Firewalls](https://img.shields.io/badge/Firewalls-%235391FE.svg?style=for-the-badge&logo=firewall&logoColor=white) ![VPNS](https://img.shields.io/badge/VPNs-%235391FE.svg?style=for-the-badge&logo=vpn&logoColor=white) ![IDS/IPS](https://img.shields.io/badge/IDS/IPS-%235391FE.svg?style=for-the-badge&logo=ids/ips&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%235391FE.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Firewalls](https://img.shields.io/badge/Firewalls-%23EB861A.svg?style=for-the-badge&logo=firewall&logoColor=white) ![VPNS](https://img.shields.io/badge/VPNs-%231A90EB.svg?style=for-the-badge&logo=vpn&logoColor=white) ![IDS/IPS](https://img.shields.io/badge/IDS/IPS-%234DED18.svg?style=for-the-badge&logo=ids/ips&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%231059EB.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 
 **Compliance:**
 
-![ISO 27001](https://img.shields.io/badge/ISO%2027001-%235391FE.svg?style=for-the-badge&logo=iso-27001&logoColor=white) ![NIST](https://img.shields.io/badge/NIST-%235391FE.svg?style=for-the-badge&logo=nist&logoColor=white) ![GDPR](https://img.shields.io/badge/GDPR-%235391FE.svg?style=for-the-badge&logo=gdpr&logoColor=white) ![HIPAA](https://img.shields.io/badge/HIPAA-%235391FE.svg?style=for-the-badge&logo=hipaa&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-%232B64D9.svg?style=for-the-badge&logo=iso-27001&logoColor=white) ![NIST](https://img.shields.io/badge/NIST-%231A62BD.svg?style=for-the-badge&logo=nist&logoColor=white) ![GDPR](https://img.shields.io/badge/GDPR-%230C2A5E.svg?style=for-the-badge&logo=gdpr&logoColor=white) ![HIPAA](https://img.shields.io/badge/HIPAA-%231856B8.svg?style=for-the-badge&logo=hipaa&logoColor=white)
 
 **Scripting:**
 
-![Python](https://img.shields.io/badge/Python-%235391FE.svg?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234D4D4D.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23F2E70F.svg?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%23383833.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23F21B1B.svg?style=for-the-badge&logo=java&logoColor=white)
 
 **Cryptography:**
 
-![AES](https://img.shields.io/badge/AES-%23121011.svg?style=for-the-badge&logo=aes&logoColor=white) ![RSA](https://img.shields.io/badge/RSA-%23121011.svg?style=for-the-badge&logo=rsa&logoColor=white) ![TLS](https://img.shields.io/badge/TLS-%23121011.svg?style=for-the-badge&logo=tls&logoColor=white)
+![AES](https://img.shields.io/badge/AES-%230000001.svg?style=for-the-badge&logo=aes&logoColor=white) ![RSA](https://img.shields.io/badge/RSA-%23AD1A1A.svg?style=for-the-badge&logo=rsa&logoColor=white) ![TLS](https://img.shields.io/badge/TLS-%23F5691B.svg?style=for-the-badge&logo=tls&logoColor=white)
   
