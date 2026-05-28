@@ -21,14 +21,10 @@ role: Information Security Analyst
 location: Asia
 
 what_i_do:
-  - AI-Powered Security Operations
-  - Penetration Testing
-  - SIEM
-  - Threat Detection & Response
-
-passionate_about:
-  - 📚 Creating open-source learning resources
-  - 🤝 Collaborating on security projects
+  - ⛉ AI-Powered Security Operations
+  - 🛡️ Penetration Testing
+  - 🎯 SIEM
+  - 🕵🏼‍♂️ Threat Detection & Response
 
 currently_learning:
   - 🧠 Advanced AI & Custom Model Training
@@ -36,9 +32,13 @@ currently_learning:
   - 🛡️ AI Security (Adversarial ML)
   - ⚡ High-Performance Model Serving
 
+passionate_about:
+  - 📚 Creating open-source learning resources
+  - 🤝 Collaborating on security projects
+
 open_to:
-  - Remote roles in Information Security/Cyber Security
-  - Open source collaborations
+  - 🌐 Remote roles in Information Security/Cyber Security
+  - 🛠️ Open source collaborations
 ```
 
 ---
