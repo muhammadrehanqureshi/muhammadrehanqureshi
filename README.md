@@ -21,7 +21,7 @@ role: Information Security Analyst
 location: Asia
 
 what_i_do:
-  - ⚛  AI-Powered Security Operations
+  - 🤖 AI-Powered Security Operations
   - 🛡️ Penetration Testing
   - 🎯 SIEM
   - 🕵🏼‍♂️ Threat Detection & Response
