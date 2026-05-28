@@ -1,3 +1,49 @@
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Muhammad+Rehan+Qureshi;CISM+|+CISSP;Information+Security+Analyst" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=farhanashrafdev&style=for-the-badge&color=blue)](https://github.com/muhammadrehanqureshi)
+
+**🎤 CISM • 🏆 CISSP • 🌍 Information Security Analyst**
+
+</div>
+
+---
+
+### 🚀 About Me
+
+```yaml
+name: Muhammad Rehan Qureshi
+role: Information Security Analyst
+location: Asia
+
+what_i_do:
+  - AI-Powered Security Operations
+  - Cloud Native Security (Kubernetes, Docker)
+  - DevSecOps Pipeline Automation
+  - Threat Detection & Response
+
+passionate_about:
+  - 📚 Creating open-source learning resources
+  - 🤝 Collaborating on security projects
+
+currently_learning:
+  - 🧠 Advanced AI & Custom Model Training
+  - 🤖 LLM Fine-tuning & Architecture
+  - 🛡️ AI Security (Adversarial ML)
+  - ⚡ High-Performance Model Serving
+
+open_to:
+  - Remote roles in DevSecOps / Cloud Security
+  - Speaking opportunities
+  - Open source collaborations
+```
+
+---
+
 ## 💫 About Me:
 🔭 I'm currently working on - Threat detection and incident response as an Information Security Analyst at TechSurge Inc.<br>👯 I'm looking to collaborate on - Cybersecurity projects involving penetration testing, SIEM use case development, or threat hunting.<br>🤝 I'm looking for help with - Building out my Python-based security tooling, including log analyzers and malware scanners.<br>🌱 I'm currently learning - Advanced offensive security techniques and deepening my cloud security expertise across AWS & Azure.<br>💬 Ask me about - SIEM platforms (Splunk, Sentinel, QRadar), vulnerability assessments, incident response.<br>⚡ Fun fact - I hold both CISM and CISSP certifications and have helped secure 500+ endpoints while cutting malware incidents by 60%.
 
