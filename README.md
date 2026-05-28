@@ -7,7 +7,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=muhammadrehanqureshi&style=for-the-badge&color=blue)](https://github.com/muhammadrehanqureshi)
 
-**🎤 CISM • 🏆 CISSP • 🌍 Information Security Analyst**
+**🏆CISM | CISSP • 🌍 Information Security Analyst**
 
 </div>
 
@@ -43,9 +43,11 @@ open_to:
 
 ---
 
-## 🌐 Socials:
+### 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-muhammad-rehan-qureshi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrmrehanqureshi@gmail.com) 
 
+---
 
 ### 💻 Tech Stack
 
