@@ -17,27 +17,27 @@
 
 ```yaml
 name: Muhammad Rehan Qureshi
-role: Information Security Analyst
+role: Information security analyst
 location: Asia
 
 what_i_do:
-  - 🤖 AI-Powered Security Operations
-  - 🛡️ Penetration Testing
+  - 🤖 AI-powered security operations
+  - 🛡️ Penetration testing
   - 🎯 SIEM
-  - 🕵🏼‍♂️ Threat Detection & Response
+  - 🕵🏼‍♂️ Threat detection & response
 
 currently_learning:
-  - 🧠 Advanced AI & Custom Model Training
-  - 🤖 LLM Fine-tuning & Architecture
-  - 🛡️ AI Security (Adversarial ML)
-  - ⚡ High-Performance Model Serving
+  - 🧠 Advanced AI & custom model training
+  - 🤖 LLM fine-tuning & architecture
+  - 🛡️ AI security (Adversarial ML)
+  - ⚡ High-performance model serving
 
 passionate_about:
   - 📚 Creating open-source learning resources
   - 🤝 Collaborating on security projects
 
 open_to:
-  - 🌐 Remote roles in Information Security/Cyber Security
+  - 🌐 Remote roles in information security/cyber security
   - 🛠️ Open source collaborations
 ```
 
