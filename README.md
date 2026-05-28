@@ -13,7 +13,7 @@
 
 ---
 
-### 🚀 About Me
+### 🫣 About Me
 
 ```yaml
 name: Muhammad Rehan Qureshi
