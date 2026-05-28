@@ -67,7 +67,7 @@ open_to:
 
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-%23EB1A1A.svg?style=for-the-badge&logo=crowd-strike&logoColor=white)
 
-**Networking**
+**Networking:**
 
 ![Firewalls](https://img.shields.io/badge/Firewalls-%23EB861A.svg?style=for-the-badge&logo=firewall&logoColor=white) ![VPNS](https://img.shields.io/badge/VPNs-%231A90EB.svg?style=for-the-badge&logo=vpn&logoColor=white) ![IDS/IPS](https://img.shields.io/badge/IDS/IPS-%234DED18.svg?style=for-the-badge&logo=ids/ips&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%231059EB.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 
