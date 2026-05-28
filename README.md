@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Muhammad+Rehan+Qureshi;CISM+|+CISSP;Information+Security+Analyst" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hello!+%F0%9F%91%8B+I'm+Muhammad+Rehan+Qureshi;CISM+|+CISSP;Information+Security+Analyst" alt="Typing SVG" />
 
 <br/>
 
