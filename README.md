@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=farhanashrafdev&style=for-the-badge&color=blue)](https://github.com/muhammadrehanqureshi)
+[![Profile Views](https://komarev.com/ghpvc/?username=muhammadrehanqureshi&style=for-the-badge&color=blue)](https://github.com/muhammadrehanqureshi)
 
 **🎤 CISM • 🏆 CISSP • 🌍 Information Security Analyst**
 
@@ -22,8 +22,8 @@ location: Asia
 
 what_i_do:
   - AI-Powered Security Operations
-  - Cloud Native Security (Kubernetes, Docker)
-  - DevSecOps Pipeline Automation
+  - Penetration Testing
+  - SIEM
   - Threat Detection & Response
 
 passionate_about:
@@ -37,15 +37,11 @@ currently_learning:
   - ⚡ High-Performance Model Serving
 
 open_to:
-  - Remote roles in DevSecOps / Cloud Security
-  - Speaking opportunities
+  - Remote roles in Information Security/Cyber Security
   - Open source collaborations
 ```
 
 ---
-
-## 💫 About Me:
-🔭 I'm currently working on - Threat detection and incident response as an Information Security Analyst at TechSurge Inc.<br>👯 I'm looking to collaborate on - Cybersecurity projects involving penetration testing, SIEM use case development, or threat hunting.<br>🤝 I'm looking for help with - Building out my Python-based security tooling, including log analyzers and malware scanners.<br>🌱 I'm currently learning - Advanced offensive security techniques and deepening my cloud security expertise across AWS & Azure.<br>💬 Ask me about - SIEM platforms (Splunk, Sentinel, QRadar), vulnerability assessments, incident response.<br>⚡ Fun fact - I hold both CISM and CISSP certifications and have helped secure 500+ endpoints while cutting malware incidents by 60%.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-muhammad-rehan-qureshi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrmrehanqureshi@gmail.com) 
@@ -55,7 +51,7 @@ open_to:
 
 **SIEM & Monitoring:**
 
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/microsoft%20sentinel-%232F89ED.svg?style=for-the-badge&logo=gnu-microsoft&logoColor=white) ![QRadar](https://img.shields.io/badge/QRadar-%2A1DBA0.svg?style=for-the-badge&logo=qradar&logoColor=white) ![ArcSight](https://img.shields.io/badge/ArcSight-%23F52020.svg?style=for-the-badge&logo=arcsight&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%23961515.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%23902391.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
+![Splunk](https://img.shields.io/badge/splunk-%23FA572A.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/microsoft%20sentinel-%232F89ED.svg?style=for-the-badge&logo=gnu-microsoft&logoColor=white) ![QRadar](https://img.shields.io/badge/QRadar-%2A1DBA0.svg?style=for-the-badge&logo=qradar&logoColor=white) ![ArcSight](https://img.shields.io/badge/ArcSight-%23F52020.svg?style=for-the-badge&logo=arcsight&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%23961515.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%23902391.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
 
 **Vulnerability Management:**
 
