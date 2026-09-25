@@ -17,7 +17,7 @@
 
 ```yaml
 name: Muhammad Rehan Qureshi
-role: Information security analyst
+role: Information security lead
 location: Asia
 
 what_i_do:
