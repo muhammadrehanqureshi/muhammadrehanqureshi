@@ -5,8 +5,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadrehanqureshi)
-
 [![Profile Views](https://komarev.com/ghpvc/?username=muhammadrehanqureshi&style=for-the-badge&color=blue)](https://github.com/muhammadrehanqureshi)
 
 **🏆CISM | CISSP • 🕵 Information Security Lead**
